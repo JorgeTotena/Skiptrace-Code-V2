@@ -9,3 +9,5 @@ output,
 t1 input,
 t1 output
 
+make sure to install the necessary depedences and packages (check the leapsome training for that) numpy and pandas libraties need to be installed.
+
